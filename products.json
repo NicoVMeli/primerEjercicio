@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nombre": "llavero",
+        "color": "rojo",
+        "precio": 100,
+        "stock": 20,
+        "codigo": 1001,
+        "publicado": true,
+        "fechaDeCreacion": "01/01/2022"
+    },
+    {
+        "id": 2,
+        "nombre": "gorra",
+        "color": "verde",
+        "precio": 10,
+        "stock": 200,
+        "codigo": 1002,
+        "publicado": true,
+        "fechaDeCreacion": "01/02/2022"
+    },
+    {
+        "id": 3,
+        "nombre": "teclado",
+        "color": "negro",
+        "precio": 230,
+        "stock": 12,
+        "codigo": 1003,
+        "publicado": false,
+        "fechaDeCreacion": "01/02/2022"
+    }
+]
